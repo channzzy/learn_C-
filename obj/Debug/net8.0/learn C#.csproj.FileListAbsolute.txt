@@ -1,0 +1,14 @@
+C:\Users\Chanzy\Desktop\learn C#\bin\Debug\net8.0\learn C#.exe
+C:\Users\Chanzy\Desktop\learn C#\bin\Debug\net8.0\learn C#.deps.json
+C:\Users\Chanzy\Desktop\learn C#\bin\Debug\net8.0\learn C#.runtimeconfig.json
+C:\Users\Chanzy\Desktop\learn C#\bin\Debug\net8.0\learn C#.dll
+C:\Users\Chanzy\Desktop\learn C#\bin\Debug\net8.0\learn C#.pdb
+C:\Users\Chanzy\Desktop\learn C#\obj\Debug\net8.0\learn C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chanzy\Desktop\learn C#\obj\Debug\net8.0\learn C#.AssemblyInfoInputs.cache
+C:\Users\Chanzy\Desktop\learn C#\obj\Debug\net8.0\learn C#.AssemblyInfo.cs
+C:\Users\Chanzy\Desktop\learn C#\obj\Debug\net8.0\learn C#.csproj.CoreCompileInputs.cache
+C:\Users\Chanzy\Desktop\learn C#\obj\Debug\net8.0\learn C#.dll
+C:\Users\Chanzy\Desktop\learn C#\obj\Debug\net8.0\refint\learn C#.dll
+C:\Users\Chanzy\Desktop\learn C#\obj\Debug\net8.0\learn C#.pdb
+C:\Users\Chanzy\Desktop\learn C#\obj\Debug\net8.0\learn C#.genruntimeconfig.cache
+C:\Users\Chanzy\Desktop\learn C#\obj\Debug\net8.0\ref\learn C#.dll
