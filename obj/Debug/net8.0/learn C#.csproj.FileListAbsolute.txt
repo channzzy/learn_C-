@@ -12,3 +12,4 @@ C:\Users\Chanzy\Desktop\learn C#\obj\Debug\net8.0\refint\learn C#.dll
 C:\Users\Chanzy\Desktop\learn C#\obj\Debug\net8.0\learn C#.pdb
 C:\Users\Chanzy\Desktop\learn C#\obj\Debug\net8.0\learn C#.genruntimeconfig.cache
 C:\Users\Chanzy\Desktop\learn C#\obj\Debug\net8.0\ref\learn C#.dll
+C:\Users\Chanzy\Desktop\learn C#\obj\Debug\net8.0\learn C#.sourcelink.json
