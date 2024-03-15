@@ -58,12 +58,12 @@
 
 //Day 2
 
-using System;
-namespace SkilvulLearning
-{
-    class DayDua{
-        public static void Main(string[] args)
-        {
+// using System;
+// namespace SkilvulLearning
+// {
+//     class DayDua{
+//         public static void Main(string[] args)
+//         {
             // string name = "Chandra";
             //Menggunakan Properti Dalam String
             // Console.WriteLine("panjangnya adalah " + name.Length);
@@ -127,6 +127,153 @@ namespace SkilvulLearning
             // Console.WriteLine(Convert.ToString(myBool));   // convert bool to string
             
             
-        }
+//         }
+//     }
+// }
+
+//Day 3
+using System;
+namespace SkilvulLearning
+{
+    class Day3{
+        public static void Main(string[] args)
+        {
+            int angka1 = 1;
+            int angka2 = 2;
+            string cuaca = "Hujan";
+            //Operator C#
+            //Operator Aritmatika
+            // Console.WriteLine(angka1 + angka2);
+            // Console.WriteLine(angka2 - angka1);
+            // Console.WriteLine(angka2 * angka1);
+            
+            //Operator assigment
+            // Console.WriteLine(angka1 += 5);
+            // Console.WriteLine(angka2 -= angka1);
+
+            //Operator Perbandingan
+            // Console.WriteLine(angka1 < angka2);
+
+            //Operator Logika
+            // Console.WriteLine(angka1 < angka2 && angka1 > angka2);
+
+            //Pengkondisian
+
+            //1.If Statment
+            // if(angka1 < angka2){
+            //     Console.WriteLine("Angka 1 lebih kecil dari angka2");
+            // }
+
+            //2.If else statment
+            // if(angka1 > angka2){
+            //     Console.WriteLine("Angka 1 lebih besar dari angka2");
+            // }else{
+            //     Console.WriteLine("Angka 1 lebih kecil dari angka2");
+            // }
+
+            //3.If else if statment
+            // if(angka1 > angka2){
+            //     Console.WriteLine("Angka 1 lebih besar dari angka2");
+            // }else if(angka1 < angka2 && angka1 != angka2){
+            //     Console.WriteLine("Angka 1 lebih kecil dari angka2 dan tidak sama dengan angka 2");
+            // }else{
+            //     Console.WriteLine("Terjadi kesalahan");
+            // }
+
+            //4.Switch
+            // switch (cuaca)
+            // {
+            //     case "Panas":
+            //     Console.WriteLine("Tidak usah membawa payung");
+            //     break;
+            //     case "Hujan":
+            //     Console.WriteLine("Membawa payung");
+            //     break;
+            //     default:
+            //     Console.WriteLine("Tidak keluar");
+            //     break;
+            // }
+
+            //Perulangan
+            //1.For
+            // int i,j,angka,jumlahDigit;
+            // for (i = 0; i < 10; i++)
+            // {
+            //     Console.WriteLine($"Ini perulangan ke-{i}");
+            // }
+
+            //variasi dalam for menggunakan dua variable
+            // for (i = 0,j = 10; i < j; i++,j--)
+            // {
+            //     Console.WriteLine("i dan j: " + i + " " + j);
+            // }
+
+            //While
+            // angka = 43567424;
+		    // jumlahDigit = 0;
+            //     Console.WriteLine("Angka: " + angka);
+            //     while (angka > 0)
+            //     {
+            //         jumlahDigit++;
+            //         angka = angka / 10;
+            //     }
+
+            //     Console.WriteLine("Jumlah Digit: " + jumlahDigit);
+            
+
+            //Format for di dalam while
+            // int hitung = 10;
+            // while (hitung>0)
+            // {
+            //     Console.WriteLine(hitung + "...");
+            //     hitung--;
+            // }
+            // Console.WriteLine("MULAI!!!");
+            // Console.ReadKey();
+
+            //Do while
+            // int increment = 10;
+            // do
+            // {
+            //     increment += 1;
+            //     Console.WriteLine(increment);
+            //     increment -= 2;
+            // } while (increment > 0);
+
+            // int increment = 0;
+            // while(true)
+            // {
+            //     increment++;
+            //     if(increment % 2 == 0)
+            //         continue;
+                
+            //     if(increment > 10)
+            //         break;
+            //     else
+            //         Console.WriteLine(increment);
+            // }
+            // int x = 0;
+            // int y = 0;
+
+            // for(int i = 0; i < 20; i++)
+            // {
+            //     x = i * 2;
+            //     y = i * 3;
+                
+            //     if(x * y >= 100)
+            //         break;
+                
+            //     Console.WriteLine(x + " " + y);
+            // }
+
+            // for(int i = 0; i < 6; i++)
+            // {
+            //     for(int j = i; j >= 0; j--) 
+            //     {
+            //         Console.Write("* "); 
+            //     }
+            //     Console.WriteLine();
+            // }
     }
+}
 }
