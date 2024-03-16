@@ -132,15 +132,15 @@
 // }
 
 //Day 3
-using System;
-namespace SkilvulLearning
-{
-    class Day3{
-        public static void Main(string[] args)
-        {
-            int angka1 = 1;
-            int angka2 = 2;
-            string cuaca = "Hujan";
+// using System;
+// namespace SkilvulLearning
+// {
+//     class Day3{
+//         public static void Main(string[] args)
+//         {
+//             int angka1 = 1;
+//             int angka2 = 2;
+//             string cuaca = "Hujan";
             //Operator C#
             //Operator Aritmatika
             // Console.WriteLine(angka1 + angka2);
@@ -274,6 +274,45 @@ namespace SkilvulLearning
             //     }
             //     Console.WriteLine();
             // }
-    }
+//     }
+// }
+// }
+
+//Day 4
+using System;
+namespace SkilvulLearning
+{
+    class Day4{
+        public static void Main(string[] args)
+        {
+            //Array
+            //Deklarsi array pada C# 
+            // int [] arrayAngka;
+            // string [] arrayNama;
+            // object [] arrayObjek;
+
+            //Memberi nilai pada array
+            int [] arrayAngka = new int [5];
+            string [] arrayNama = new string [] {
+                "Chandra",
+                "Haikal",
+                "Adrian"
+            };
+            object [] arrayObjek = {
+                "Chandra",
+                "Cirebon",
+                true,
+                20,
+            };
+
+            //Mengakses array dengan menggunakan index
+            Console.WriteLine(arrayNama[0]);
+
+            //Mengakses array menggunakan perulangan
+            for (int i = 0; i <= arrayNama.Length; i++)
+            {
+                    Console.WriteLine($"Elemen dengan indeks {i} = {arrayNama[i]}");
+            }
+        }
 }
 }
